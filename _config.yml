@@ -28,8 +28,8 @@ twitter_username: TobiJBoorman
 github_username:  tobiboorman
 linkedin_username: tobias-boorman
 
-# Build settings
-theme: minima
+# Build settings #minima
+theme: Minimal
 plugins:
   - jekyll-feed
 
