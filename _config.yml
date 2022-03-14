@@ -29,7 +29,7 @@ github_username:  tobiboorman
 linkedin_username: tobias-boorman
 
 # Build settings #minima
-theme: Minimal
+theme: minima
 plugins:
   - jekyll-feed
 
