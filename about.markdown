@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+<img src="{{site.baseurl}}/assets/images/MyMug.jpg" width = "200">
+<br>
+<br>
 Welcome to my website! I am a PhD student in Theoretical Condensed Matter Physics at the University of St Andrews working under the 
 supervision of [Dr Bernd Braunecker](https://www.st-andrews.ac.uk/~bhb/). My research is currently in the field of strongly correlated materials, specifically, on the novel behaviours that arise due to the joint-coherent evolution of coupled systems at sub-thermal timescales.
 <br>

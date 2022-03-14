@@ -21,12 +21,13 @@
 title: Tobias Boorman
 email: tjb8@st-andrews.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Tobias Boorman, Theoretical Condensed Matter Physics PhD Student at the University of St Andrews
+  PhD Student in Theoretical Condensed Matter Physics at the University of St Andrews, Scotland
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tobiboorman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TobiJBoorman
 github_username:  tobiboorman
 linkedin_username: tobias-boorman
+copyright: Tobias Boorman
 
 # Build settings #minima
 theme: minima
