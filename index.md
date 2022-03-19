@@ -22,3 +22,8 @@ I'm hoping to use this website as a catalogue of professional and personal proje
 <br>
 <br>
 I received my 1<sup>st</sup> class MSci (Hons) in Theoretical Physics with Mathematics from Lancaster University in June 2020. In my spare time I enjoy reading, programming, and, as of recently, crochet.
+<br>
+<br>
+# Upcoming Publications
+
+<a href="https://journals.aps.org/prb/accepted/5c07aOa4T4b16f4dd9e32b3018616c9bc0ebe8ba0">Diagnostics of entanglement dynamics in noisy and disordered spin chains via the measurement-induced steady-state entanglement transition</a> - Physical Review B - (2022)
