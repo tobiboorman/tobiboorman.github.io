@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: default
 title: About Me
 order: 1
 ---
+
+<!---Layout was page, however, I need to look into the difference between this and default, look into this later --->
 
 <style>
 .aligncenter {
